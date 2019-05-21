@@ -8,4 +8,4 @@ https://grantimbo.github.io/nutrastar/
 
 I had to removed some functionality in the preview as the JS is having some conflicts.
 
-This website was build in 2016. Unfortunately Nutrastar is already defunct.
+This website was build in 2016. Unfortunately Nutrastar is already defunct as of 2019
